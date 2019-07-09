@@ -4563,9 +4563,9 @@ input[type="button"].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: rgb(236, 183, 183);
+  background-color: rgb(223, 236, 235);
   background-clip: border-box;
-  border: 1px solid rgba(204, 154, 154, 0.829);
+  border: 1px solid rgba(230, 240, 238, 0.829);
   border-radius: 0.25rem;
 }
 
@@ -4588,7 +4588,7 @@ input[type="button"].btn-block {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   padding: 1.25rem;
-  
+
 }
 
 .card-title {
